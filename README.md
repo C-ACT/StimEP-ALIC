@@ -1,2 +1,2 @@
 # StimEP-EPhys
-ALIC OCD DBS
+Index stimulation artifacts for NetStation outport using ALIC OCD experiment structure
